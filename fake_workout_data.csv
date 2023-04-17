@@ -1,0 +1,781 @@
+date,exercise,weight,sets,reps
+2022-04-18,Back Squat,141,3,1
+2022-04-18,Deadlift,174,4,4
+2022-04-18,Bench Press,54,3,2
+2022-04-19,Back Squat,146,5,2
+2022-04-19,Deadlift,155,4,1
+2022-04-19,Bench Press,41,3,4
+2022-04-20,Back Squat,89,5,1
+2022-04-20,Deadlift,151,3,7
+2022-04-20,Bench Press,54,4,5
+2022-04-21,Back Squat,60,3,7
+2022-04-21,Deadlift,123,4,3
+2022-04-21,Bench Press,53,4,2
+2022-04-22,Back Squat,71,4,2
+2022-04-22,Deadlift,125,4,5
+2022-04-22,Bench Press,91,3,8
+2022-04-25,Back Squat,128,3,7
+2022-04-25,Deadlift,90,5,5
+2022-04-25,Bench Press,93,5,6
+2022-04-26,Back Squat,133,3,2
+2022-04-26,Deadlift,85,5,4
+2022-04-26,Bench Press,89,4,2
+2022-04-27,Back Squat,89,3,7
+2022-04-27,Deadlift,115,4,6
+2022-04-27,Bench Press,50,4,6
+2022-04-28,Back Squat,86,5,5
+2022-04-28,Deadlift,169,5,2
+2022-04-28,Bench Press,78,5,3
+2022-04-29,Back Squat,128,5,4
+2022-04-29,Deadlift,100,4,7
+2022-04-29,Bench Press,57,5,4
+2022-05-02,Back Squat,147,4,1
+2022-05-02,Deadlift,109,3,6
+2022-05-02,Bench Press,65,4,2
+2022-05-03,Back Squat,87,5,6
+2022-05-03,Deadlift,107,5,8
+2022-05-03,Bench Press,65,5,8
+2022-05-04,Back Squat,78,4,3
+2022-05-04,Deadlift,111,5,5
+2022-05-04,Bench Press,87,5,7
+2022-05-05,Back Squat,134,4,6
+2022-05-05,Deadlift,108,3,8
+2022-05-05,Bench Press,45,3,2
+2022-05-06,Back Squat,79,5,3
+2022-05-06,Deadlift,181,5,7
+2022-05-06,Bench Press,78,3,7
+2022-05-09,Back Squat,108,5,8
+2022-05-09,Deadlift,147,4,1
+2022-05-09,Bench Press,83,5,2
+2022-05-10,Back Squat,147,5,5
+2022-05-10,Deadlift,178,5,6
+2022-05-10,Bench Press,47,4,7
+2022-05-11,Back Squat,80,4,1
+2022-05-11,Deadlift,172,5,5
+2022-05-11,Bench Press,72,3,2
+2022-05-12,Back Squat,140,4,4
+2022-05-12,Deadlift,99,4,3
+2022-05-12,Bench Press,74,5,1
+2022-05-13,Back Squat,136,4,8
+2022-05-13,Deadlift,82,3,6
+2022-05-13,Bench Press,96,4,4
+2022-05-16,Back Squat,67,3,2
+2022-05-16,Deadlift,90,5,8
+2022-05-16,Bench Press,92,3,3
+2022-05-17,Back Squat,76,5,8
+2022-05-17,Deadlift,150,3,5
+2022-05-17,Bench Press,73,5,7
+2022-05-18,Back Squat,87,5,4
+2022-05-18,Deadlift,171,4,7
+2022-05-18,Bench Press,82,5,6
+2022-05-19,Back Squat,116,5,8
+2022-05-19,Deadlift,95,3,4
+2022-05-19,Bench Press,44,4,1
+2022-05-20,Back Squat,135,5,4
+2022-05-20,Deadlift,155,3,1
+2022-05-20,Bench Press,44,5,1
+2022-05-23,Back Squat,89,3,1
+2022-05-23,Deadlift,190,4,2
+2022-05-23,Bench Press,72,3,5
+2022-05-24,Back Squat,145,4,4
+2022-05-24,Deadlift,149,3,8
+2022-05-24,Bench Press,55,4,7
+2022-05-25,Back Squat,84,3,2
+2022-05-25,Deadlift,164,4,6
+2022-05-25,Bench Press,67,4,8
+2022-05-26,Back Squat,66,5,2
+2022-05-26,Deadlift,87,4,6
+2022-05-26,Bench Press,91,3,4
+2022-05-27,Back Squat,84,3,8
+2022-05-27,Deadlift,97,4,3
+2022-05-27,Bench Press,57,4,4
+2022-05-30,Back Squat,69,4,2
+2022-05-30,Deadlift,86,5,1
+2022-05-30,Bench Press,45,3,3
+2022-05-31,Back Squat,112,4,8
+2022-05-31,Deadlift,107,4,1
+2022-05-31,Bench Press,50,4,1
+2022-06-01,Back Squat,109,4,8
+2022-06-01,Deadlift,116,4,8
+2022-06-01,Bench Press,49,3,5
+2022-06-02,Back Squat,87,3,1
+2022-06-02,Deadlift,175,4,1
+2022-06-02,Bench Press,43,5,8
+2022-06-03,Back Squat,124,5,3
+2022-06-03,Deadlift,87,5,2
+2022-06-03,Bench Press,94,3,2
+2022-06-06,Back Squat,136,3,4
+2022-06-06,Deadlift,131,3,4
+2022-06-06,Bench Press,77,5,1
+2022-06-07,Back Squat,139,3,7
+2022-06-07,Deadlift,164,5,6
+2022-06-07,Bench Press,99,4,4
+2022-06-08,Back Squat,145,5,6
+2022-06-08,Deadlift,110,4,7
+2022-06-08,Bench Press,48,5,5
+2022-06-09,Back Squat,118,4,2
+2022-06-09,Deadlift,81,4,2
+2022-06-09,Bench Press,44,5,4
+2022-06-10,Back Squat,124,4,3
+2022-06-10,Deadlift,199,4,2
+2022-06-10,Bench Press,96,3,6
+2022-06-13,Back Squat,96,3,8
+2022-06-13,Deadlift,186,5,5
+2022-06-13,Bench Press,79,5,1
+2022-06-14,Back Squat,145,5,5
+2022-06-14,Deadlift,199,5,2
+2022-06-14,Bench Press,100,3,5
+2022-06-15,Back Squat,74,3,3
+2022-06-15,Deadlift,114,4,4
+2022-06-15,Bench Press,85,4,4
+2022-06-16,Back Squat,147,5,5
+2022-06-16,Deadlift,144,4,5
+2022-06-16,Bench Press,97,3,2
+2022-06-17,Back Squat,141,4,5
+2022-06-17,Deadlift,85,3,6
+2022-06-17,Bench Press,89,3,5
+2022-06-20,Back Squat,80,5,8
+2022-06-20,Deadlift,150,5,7
+2022-06-20,Bench Press,75,3,2
+2022-06-21,Back Squat,69,5,3
+2022-06-21,Deadlift,149,3,6
+2022-06-21,Bench Press,77,5,3
+2022-06-22,Back Squat,115,3,1
+2022-06-22,Deadlift,119,4,1
+2022-06-22,Bench Press,97,4,4
+2022-06-23,Back Squat,147,3,2
+2022-06-23,Deadlift,125,5,7
+2022-06-23,Bench Press,79,5,3
+2022-06-24,Back Squat,90,3,3
+2022-06-24,Deadlift,192,4,1
+2022-06-24,Bench Press,51,5,6
+2022-06-27,Back Squat,112,5,4
+2022-06-27,Deadlift,114,3,2
+2022-06-27,Bench Press,64,3,8
+2022-06-28,Back Squat,88,3,8
+2022-06-28,Deadlift,124,4,4
+2022-06-28,Bench Press,54,3,4
+2022-06-29,Back Squat,111,4,5
+2022-06-29,Deadlift,190,3,5
+2022-06-29,Bench Press,62,5,7
+2022-06-30,Back Squat,146,5,6
+2022-06-30,Deadlift,200,3,2
+2022-06-30,Bench Press,96,4,3
+2022-07-01,Back Squat,134,4,1
+2022-07-01,Deadlift,93,5,7
+2022-07-01,Bench Press,62,5,6
+2022-07-04,Back Squat,115,5,2
+2022-07-04,Deadlift,129,5,4
+2022-07-04,Bench Press,56,3,7
+2022-07-05,Back Squat,60,5,4
+2022-07-05,Deadlift,126,4,2
+2022-07-05,Bench Press,100,5,6
+2022-07-06,Back Squat,139,4,2
+2022-07-06,Deadlift,172,4,5
+2022-07-06,Bench Press,82,4,6
+2022-07-07,Back Squat,111,5,5
+2022-07-07,Deadlift,150,3,4
+2022-07-07,Bench Press,66,5,7
+2022-07-08,Back Squat,146,5,3
+2022-07-08,Deadlift,158,5,5
+2022-07-08,Bench Press,65,5,1
+2022-07-11,Back Squat,98,4,4
+2022-07-11,Deadlift,135,5,6
+2022-07-11,Bench Press,69,4,8
+2022-07-12,Back Squat,146,3,8
+2022-07-12,Deadlift,181,5,3
+2022-07-12,Bench Press,82,3,5
+2022-07-13,Back Squat,125,5,6
+2022-07-13,Deadlift,91,3,5
+2022-07-13,Bench Press,54,3,3
+2022-07-14,Back Squat,63,3,4
+2022-07-14,Deadlift,140,5,2
+2022-07-14,Bench Press,69,4,4
+2022-07-15,Back Squat,149,4,8
+2022-07-15,Deadlift,131,3,3
+2022-07-15,Bench Press,81,5,1
+2022-07-18,Back Squat,73,4,4
+2022-07-18,Deadlift,102,5,8
+2022-07-18,Bench Press,43,5,4
+2022-07-19,Back Squat,75,4,3
+2022-07-19,Deadlift,182,4,6
+2022-07-19,Bench Press,100,4,7
+2022-07-20,Back Squat,130,4,3
+2022-07-20,Deadlift,175,4,8
+2022-07-20,Bench Press,56,3,5
+2022-07-21,Back Squat,126,4,4
+2022-07-21,Deadlift,115,4,2
+2022-07-21,Bench Press,85,4,4
+2022-07-22,Back Squat,94,4,6
+2022-07-22,Deadlift,194,5,2
+2022-07-22,Bench Press,48,3,4
+2022-07-25,Back Squat,109,5,3
+2022-07-25,Deadlift,170,3,2
+2022-07-25,Bench Press,66,4,6
+2022-07-26,Back Squat,129,4,7
+2022-07-26,Deadlift,87,3,7
+2022-07-26,Bench Press,64,5,1
+2022-07-27,Back Squat,133,4,8
+2022-07-27,Deadlift,80,4,5
+2022-07-27,Bench Press,88,4,7
+2022-07-28,Back Squat,128,5,4
+2022-07-28,Deadlift,142,3,5
+2022-07-28,Bench Press,67,4,1
+2022-07-29,Back Squat,109,4,7
+2022-07-29,Deadlift,172,3,8
+2022-07-29,Bench Press,98,3,1
+2022-08-01,Back Squat,110,5,1
+2022-08-01,Deadlift,90,5,7
+2022-08-01,Bench Press,48,4,3
+2022-08-02,Back Squat,66,4,7
+2022-08-02,Deadlift,121,3,8
+2022-08-02,Bench Press,60,4,7
+2022-08-03,Back Squat,95,4,5
+2022-08-03,Deadlift,186,3,8
+2022-08-03,Bench Press,41,5,1
+2022-08-04,Back Squat,104,3,2
+2022-08-04,Deadlift,179,5,1
+2022-08-04,Bench Press,88,3,4
+2022-08-05,Back Squat,85,3,3
+2022-08-05,Deadlift,110,3,8
+2022-08-05,Bench Press,82,3,4
+2022-08-08,Back Squat,119,5,5
+2022-08-08,Deadlift,178,4,3
+2022-08-08,Bench Press,78,5,2
+2022-08-09,Back Squat,80,4,2
+2022-08-09,Deadlift,154,3,5
+2022-08-09,Bench Press,76,5,7
+2022-08-10,Back Squat,110,5,4
+2022-08-10,Deadlift,89,5,4
+2022-08-10,Bench Press,46,5,5
+2022-08-11,Back Squat,147,5,2
+2022-08-11,Deadlift,181,5,1
+2022-08-11,Bench Press,62,5,7
+2022-08-12,Back Squat,144,4,2
+2022-08-12,Deadlift,144,5,6
+2022-08-12,Bench Press,40,4,8
+2022-08-15,Back Squat,73,4,6
+2022-08-15,Deadlift,161,4,3
+2022-08-15,Bench Press,67,3,5
+2022-08-16,Back Squat,138,5,8
+2022-08-16,Deadlift,139,4,5
+2022-08-16,Bench Press,60,3,2
+2022-08-17,Back Squat,95,4,4
+2022-08-17,Deadlift,176,4,7
+2022-08-17,Bench Press,61,3,8
+2022-08-18,Back Squat,101,3,8
+2022-08-18,Deadlift,107,4,5
+2022-08-18,Bench Press,61,4,5
+2022-08-19,Back Squat,131,3,4
+2022-08-19,Deadlift,90,3,7
+2022-08-19,Bench Press,71,5,4
+2022-08-22,Back Squat,148,4,8
+2022-08-22,Deadlift,137,3,2
+2022-08-22,Bench Press,58,3,7
+2022-08-23,Back Squat,148,3,5
+2022-08-23,Deadlift,164,5,6
+2022-08-23,Bench Press,70,5,6
+2022-08-24,Back Squat,114,5,6
+2022-08-24,Deadlift,125,5,8
+2022-08-24,Bench Press,57,4,5
+2022-08-25,Back Squat,89,3,4
+2022-08-25,Deadlift,120,3,3
+2022-08-25,Bench Press,52,3,8
+2022-08-26,Back Squat,95,5,5
+2022-08-26,Deadlift,92,3,5
+2022-08-26,Bench Press,54,4,3
+2022-08-29,Back Squat,98,3,3
+2022-08-29,Deadlift,115,3,1
+2022-08-29,Bench Press,75,4,3
+2022-08-30,Back Squat,141,4,2
+2022-08-30,Deadlift,191,3,5
+2022-08-30,Bench Press,70,4,8
+2022-08-31,Back Squat,103,3,1
+2022-08-31,Deadlift,112,4,2
+2022-08-31,Bench Press,92,3,7
+2022-09-01,Back Squat,122,3,1
+2022-09-01,Deadlift,99,3,5
+2022-09-01,Bench Press,45,3,2
+2022-09-02,Back Squat,131,4,4
+2022-09-02,Deadlift,179,5,7
+2022-09-02,Bench Press,68,4,5
+2022-09-05,Back Squat,135,4,5
+2022-09-05,Deadlift,152,5,1
+2022-09-05,Bench Press,79,5,2
+2022-09-06,Back Squat,86,5,4
+2022-09-06,Deadlift,113,5,2
+2022-09-06,Bench Press,50,3,3
+2022-09-07,Back Squat,130,3,3
+2022-09-07,Deadlift,80,4,8
+2022-09-07,Bench Press,84,5,8
+2022-09-08,Back Squat,97,3,4
+2022-09-08,Deadlift,116,5,5
+2022-09-08,Bench Press,84,4,2
+2022-09-09,Back Squat,147,3,5
+2022-09-09,Deadlift,180,5,4
+2022-09-09,Bench Press,67,3,4
+2022-09-12,Back Squat,142,3,5
+2022-09-12,Deadlift,185,3,2
+2022-09-12,Bench Press,43,3,5
+2022-09-13,Back Squat,136,5,5
+2022-09-13,Deadlift,136,3,8
+2022-09-13,Bench Press,84,4,7
+2022-09-14,Back Squat,94,5,8
+2022-09-14,Deadlift,136,3,1
+2022-09-14,Bench Press,96,4,6
+2022-09-15,Back Squat,137,4,1
+2022-09-15,Deadlift,91,3,1
+2022-09-15,Bench Press,88,5,5
+2022-09-16,Back Squat,133,3,3
+2022-09-16,Deadlift,140,5,8
+2022-09-16,Bench Press,98,4,3
+2022-09-19,Back Squat,134,4,8
+2022-09-19,Deadlift,91,4,6
+2022-09-19,Bench Press,66,4,6
+2022-09-20,Back Squat,145,3,3
+2022-09-20,Deadlift,122,4,8
+2022-09-20,Bench Press,58,5,7
+2022-09-21,Back Squat,130,3,8
+2022-09-21,Deadlift,91,4,5
+2022-09-21,Bench Press,60,3,7
+2022-09-22,Back Squat,125,3,8
+2022-09-22,Deadlift,132,3,4
+2022-09-22,Bench Press,73,4,8
+2022-09-23,Back Squat,140,4,1
+2022-09-23,Deadlift,106,4,3
+2022-09-23,Bench Press,99,4,8
+2022-09-26,Back Squat,149,4,2
+2022-09-26,Deadlift,83,5,4
+2022-09-26,Bench Press,85,3,5
+2022-09-27,Back Squat,130,3,7
+2022-09-27,Deadlift,91,3,2
+2022-09-27,Bench Press,69,3,3
+2022-09-28,Back Squat,123,5,5
+2022-09-28,Deadlift,145,5,5
+2022-09-28,Bench Press,66,4,8
+2022-09-29,Back Squat,91,4,3
+2022-09-29,Deadlift,129,3,3
+2022-09-29,Bench Press,95,3,5
+2022-09-30,Back Squat,113,4,5
+2022-09-30,Deadlift,185,3,5
+2022-09-30,Bench Press,86,4,8
+2022-10-03,Back Squat,79,4,8
+2022-10-03,Deadlift,124,4,7
+2022-10-03,Bench Press,69,4,4
+2022-10-04,Back Squat,149,3,7
+2022-10-04,Deadlift,109,4,1
+2022-10-04,Bench Press,60,5,8
+2022-10-05,Back Squat,150,4,7
+2022-10-05,Deadlift,164,5,3
+2022-10-05,Bench Press,71,3,3
+2022-10-06,Back Squat,124,5,6
+2022-10-06,Deadlift,191,3,8
+2022-10-06,Bench Press,46,5,8
+2022-10-07,Back Squat,61,5,3
+2022-10-07,Deadlift,132,5,3
+2022-10-07,Bench Press,44,4,5
+2022-10-10,Back Squat,103,5,7
+2022-10-10,Deadlift,163,3,6
+2022-10-10,Bench Press,94,5,7
+2022-10-11,Back Squat,100,5,8
+2022-10-11,Deadlift,191,5,1
+2022-10-11,Bench Press,79,3,4
+2022-10-12,Back Squat,140,5,5
+2022-10-12,Deadlift,109,5,2
+2022-10-12,Bench Press,67,3,2
+2022-10-13,Back Squat,116,3,5
+2022-10-13,Deadlift,195,3,1
+2022-10-13,Bench Press,60,3,5
+2022-10-14,Back Squat,105,4,7
+2022-10-14,Deadlift,98,3,7
+2022-10-14,Bench Press,76,5,3
+2022-10-17,Back Squat,81,3,2
+2022-10-17,Deadlift,158,4,4
+2022-10-17,Bench Press,71,5,3
+2022-10-18,Back Squat,89,4,5
+2022-10-18,Deadlift,138,4,1
+2022-10-18,Bench Press,97,4,5
+2022-10-19,Back Squat,146,5,3
+2022-10-19,Deadlift,89,4,6
+2022-10-19,Bench Press,77,4,7
+2022-10-20,Back Squat,148,4,8
+2022-10-20,Deadlift,188,4,4
+2022-10-20,Bench Press,64,4,2
+2022-10-21,Back Squat,90,4,6
+2022-10-21,Deadlift,153,4,5
+2022-10-21,Bench Press,41,5,7
+2022-10-24,Back Squat,95,3,1
+2022-10-24,Deadlift,196,5,8
+2022-10-24,Bench Press,93,4,4
+2022-10-25,Back Squat,137,4,4
+2022-10-25,Deadlift,161,3,5
+2022-10-25,Bench Press,83,5,3
+2022-10-26,Back Squat,140,3,1
+2022-10-26,Deadlift,119,4,1
+2022-10-26,Bench Press,77,4,3
+2022-10-27,Back Squat,71,4,6
+2022-10-27,Deadlift,175,4,3
+2022-10-27,Bench Press,52,3,6
+2022-10-28,Back Squat,127,5,5
+2022-10-28,Deadlift,186,3,5
+2022-10-28,Bench Press,98,4,5
+2022-10-31,Back Squat,103,3,8
+2022-10-31,Deadlift,89,3,4
+2022-10-31,Bench Press,95,5,7
+2022-11-01,Back Squat,131,4,2
+2022-11-01,Deadlift,181,4,1
+2022-11-01,Bench Press,56,5,2
+2022-11-02,Back Squat,118,4,5
+2022-11-02,Deadlift,154,4,6
+2022-11-02,Bench Press,46,5,4
+2022-11-03,Back Squat,120,3,6
+2022-11-03,Deadlift,197,5,4
+2022-11-03,Bench Press,81,3,8
+2022-11-04,Back Squat,149,4,7
+2022-11-04,Deadlift,94,3,1
+2022-11-04,Bench Press,100,3,5
+2022-11-07,Back Squat,123,3,2
+2022-11-07,Deadlift,110,5,3
+2022-11-07,Bench Press,64,4,6
+2022-11-08,Back Squat,145,5,7
+2022-11-08,Deadlift,155,5,3
+2022-11-08,Bench Press,96,4,2
+2022-11-09,Back Squat,122,5,7
+2022-11-09,Deadlift,200,4,1
+2022-11-09,Bench Press,84,4,4
+2022-11-10,Back Squat,116,4,4
+2022-11-10,Deadlift,189,4,2
+2022-11-10,Bench Press,83,4,6
+2022-11-11,Back Squat,67,4,5
+2022-11-11,Deadlift,104,3,8
+2022-11-11,Bench Press,45,5,4
+2022-11-14,Back Squat,142,5,1
+2022-11-14,Deadlift,86,4,4
+2022-11-14,Bench Press,48,5,4
+2022-11-15,Back Squat,68,5,4
+2022-11-15,Deadlift,155,3,4
+2022-11-15,Bench Press,61,3,1
+2022-11-16,Back Squat,95,3,3
+2022-11-16,Deadlift,149,4,3
+2022-11-16,Bench Press,47,5,1
+2022-11-17,Back Squat,76,3,6
+2022-11-17,Deadlift,181,3,6
+2022-11-17,Bench Press,41,3,5
+2022-11-18,Back Squat,66,3,7
+2022-11-18,Deadlift,147,3,2
+2022-11-18,Bench Press,70,4,6
+2022-11-21,Back Squat,125,5,2
+2022-11-21,Deadlift,137,5,4
+2022-11-21,Bench Press,100,5,1
+2022-11-22,Back Squat,144,5,5
+2022-11-22,Deadlift,138,5,1
+2022-11-22,Bench Press,43,4,7
+2022-11-23,Back Squat,114,5,2
+2022-11-23,Deadlift,142,5,8
+2022-11-23,Bench Press,44,3,6
+2022-11-24,Back Squat,137,3,2
+2022-11-24,Deadlift,96,4,6
+2022-11-24,Bench Press,64,5,5
+2022-11-25,Back Squat,118,5,7
+2022-11-25,Deadlift,92,5,2
+2022-11-25,Bench Press,94,5,4
+2022-11-28,Back Squat,115,4,4
+2022-11-28,Deadlift,132,4,8
+2022-11-28,Bench Press,65,4,2
+2022-11-29,Back Squat,100,4,6
+2022-11-29,Deadlift,165,4,6
+2022-11-29,Bench Press,49,5,8
+2022-11-30,Back Squat,68,3,2
+2022-11-30,Deadlift,91,4,2
+2022-11-30,Bench Press,87,5,6
+2022-12-01,Back Squat,76,5,1
+2022-12-01,Deadlift,155,5,6
+2022-12-01,Bench Press,82,3,7
+2022-12-02,Back Squat,105,5,7
+2022-12-02,Deadlift,191,5,1
+2022-12-02,Bench Press,58,5,5
+2022-12-05,Back Squat,105,3,4
+2022-12-05,Deadlift,99,5,8
+2022-12-05,Bench Press,54,3,6
+2022-12-06,Back Squat,131,4,2
+2022-12-06,Deadlift,177,4,4
+2022-12-06,Bench Press,91,4,1
+2022-12-07,Back Squat,137,5,5
+2022-12-07,Deadlift,83,3,5
+2022-12-07,Bench Press,84,4,6
+2022-12-08,Back Squat,104,3,3
+2022-12-08,Deadlift,191,3,7
+2022-12-08,Bench Press,44,3,1
+2022-12-09,Back Squat,71,5,4
+2022-12-09,Deadlift,128,4,8
+2022-12-09,Bench Press,61,3,6
+2022-12-12,Back Squat,99,5,6
+2022-12-12,Deadlift,179,5,2
+2022-12-12,Bench Press,96,3,3
+2022-12-13,Back Squat,80,5,1
+2022-12-13,Deadlift,166,3,5
+2022-12-13,Bench Press,68,5,7
+2022-12-14,Back Squat,122,5,8
+2022-12-14,Deadlift,133,4,4
+2022-12-14,Bench Press,88,5,2
+2022-12-15,Back Squat,104,4,2
+2022-12-15,Deadlift,116,5,8
+2022-12-15,Bench Press,73,5,5
+2022-12-16,Back Squat,65,3,7
+2022-12-16,Deadlift,156,3,1
+2022-12-16,Bench Press,53,4,4
+2022-12-19,Back Squat,77,4,5
+2022-12-19,Deadlift,121,3,1
+2022-12-19,Bench Press,71,5,7
+2022-12-20,Back Squat,82,3,7
+2022-12-20,Deadlift,148,5,4
+2022-12-20,Bench Press,72,5,6
+2022-12-21,Back Squat,69,4,1
+2022-12-21,Deadlift,135,3,8
+2022-12-21,Bench Press,98,3,6
+2022-12-22,Back Squat,133,4,7
+2022-12-22,Deadlift,170,5,7
+2022-12-22,Bench Press,58,3,7
+2022-12-23,Back Squat,62,4,3
+2022-12-23,Deadlift,182,5,8
+2022-12-23,Bench Press,93,5,6
+2022-12-26,Back Squat,71,4,2
+2022-12-26,Deadlift,111,4,7
+2022-12-26,Bench Press,73,3,7
+2022-12-27,Back Squat,99,5,6
+2022-12-27,Deadlift,108,4,3
+2022-12-27,Bench Press,44,5,2
+2022-12-28,Back Squat,127,5,4
+2022-12-28,Deadlift,195,4,6
+2022-12-28,Bench Press,86,5,3
+2022-12-29,Back Squat,90,3,3
+2022-12-29,Deadlift,112,3,3
+2022-12-29,Bench Press,78,3,2
+2022-12-30,Back Squat,82,5,8
+2022-12-30,Deadlift,139,5,8
+2022-12-30,Bench Press,83,5,6
+2023-01-02,Back Squat,140,4,3
+2023-01-02,Deadlift,136,3,8
+2023-01-02,Bench Press,68,5,5
+2023-01-03,Back Squat,95,5,1
+2023-01-03,Deadlift,125,5,2
+2023-01-03,Bench Press,59,4,8
+2023-01-04,Back Squat,64,3,6
+2023-01-04,Deadlift,186,4,2
+2023-01-04,Bench Press,81,3,7
+2023-01-05,Back Squat,119,5,1
+2023-01-05,Deadlift,137,5,4
+2023-01-05,Bench Press,60,5,8
+2023-01-06,Back Squat,124,3,1
+2023-01-06,Deadlift,137,3,6
+2023-01-06,Bench Press,85,3,3
+2023-01-09,Back Squat,65,3,8
+2023-01-09,Deadlift,136,5,3
+2023-01-09,Bench Press,63,4,5
+2023-01-10,Back Squat,109,4,6
+2023-01-10,Deadlift,166,5,1
+2023-01-10,Bench Press,90,5,6
+2023-01-11,Back Squat,68,4,2
+2023-01-11,Deadlift,151,5,7
+2023-01-11,Bench Press,58,4,3
+2023-01-12,Back Squat,102,3,3
+2023-01-12,Deadlift,197,4,5
+2023-01-12,Bench Press,81,5,7
+2023-01-13,Back Squat,76,5,2
+2023-01-13,Deadlift,119,5,7
+2023-01-13,Bench Press,81,4,3
+2023-01-16,Back Squat,145,5,2
+2023-01-16,Deadlift,162,5,7
+2023-01-16,Bench Press,72,4,1
+2023-01-17,Back Squat,106,4,3
+2023-01-17,Deadlift,107,4,8
+2023-01-17,Bench Press,52,3,3
+2023-01-18,Back Squat,79,3,5
+2023-01-18,Deadlift,188,3,1
+2023-01-18,Bench Press,82,4,3
+2023-01-19,Back Squat,136,4,3
+2023-01-19,Deadlift,100,3,3
+2023-01-19,Bench Press,86,4,1
+2023-01-20,Back Squat,112,4,4
+2023-01-20,Deadlift,136,5,5
+2023-01-20,Bench Press,88,5,8
+2023-01-23,Back Squat,89,5,4
+2023-01-23,Deadlift,119,4,4
+2023-01-23,Bench Press,63,5,8
+2023-01-24,Back Squat,119,4,7
+2023-01-24,Deadlift,144,5,7
+2023-01-24,Bench Press,50,3,3
+2023-01-25,Back Squat,92,3,8
+2023-01-25,Deadlift,191,4,2
+2023-01-25,Bench Press,85,5,2
+2023-01-26,Back Squat,96,3,3
+2023-01-26,Deadlift,114,4,3
+2023-01-26,Bench Press,93,4,2
+2023-01-27,Back Squat,88,4,6
+2023-01-27,Deadlift,199,3,7
+2023-01-27,Bench Press,43,4,6
+2023-01-30,Back Squat,90,4,2
+2023-01-30,Deadlift,127,3,1
+2023-01-30,Bench Press,60,3,6
+2023-01-31,Back Squat,78,3,1
+2023-01-31,Deadlift,116,4,3
+2023-01-31,Bench Press,88,5,8
+2023-02-01,Back Squat,117,5,1
+2023-02-01,Deadlift,195,3,1
+2023-02-01,Bench Press,56,3,3
+2023-02-02,Back Squat,130,5,7
+2023-02-02,Deadlift,94,4,4
+2023-02-02,Bench Press,59,3,1
+2023-02-03,Back Squat,90,4,8
+2023-02-03,Deadlift,88,3,8
+2023-02-03,Bench Press,78,5,1
+2023-02-06,Back Squat,140,5,4
+2023-02-06,Deadlift,171,3,5
+2023-02-06,Bench Press,67,3,6
+2023-02-07,Back Squat,90,5,7
+2023-02-07,Deadlift,103,5,2
+2023-02-07,Bench Press,73,4,2
+2023-02-08,Back Squat,127,5,1
+2023-02-08,Deadlift,129,4,1
+2023-02-08,Bench Press,80,4,6
+2023-02-09,Back Squat,92,5,1
+2023-02-09,Deadlift,125,3,6
+2023-02-09,Bench Press,55,5,2
+2023-02-10,Back Squat,134,5,6
+2023-02-10,Deadlift,97,3,6
+2023-02-10,Bench Press,74,4,3
+2023-02-13,Back Squat,147,4,8
+2023-02-13,Deadlift,160,3,3
+2023-02-13,Bench Press,44,5,8
+2023-02-14,Back Squat,64,4,4
+2023-02-14,Deadlift,85,3,1
+2023-02-14,Bench Press,60,4,7
+2023-02-15,Back Squat,129,4,5
+2023-02-15,Deadlift,84,5,4
+2023-02-15,Bench Press,58,4,1
+2023-02-16,Back Squat,143,4,5
+2023-02-16,Deadlift,95,4,7
+2023-02-16,Bench Press,96,4,8
+2023-02-17,Back Squat,109,4,3
+2023-02-17,Deadlift,143,5,8
+2023-02-17,Bench Press,63,5,5
+2023-02-20,Back Squat,70,5,7
+2023-02-20,Deadlift,90,4,3
+2023-02-20,Bench Press,74,4,6
+2023-02-21,Back Squat,73,3,6
+2023-02-21,Deadlift,164,4,5
+2023-02-21,Bench Press,68,5,7
+2023-02-22,Back Squat,81,5,8
+2023-02-22,Deadlift,124,4,1
+2023-02-22,Bench Press,86,4,7
+2023-02-23,Back Squat,95,5,1
+2023-02-23,Deadlift,89,5,7
+2023-02-23,Bench Press,63,5,3
+2023-02-24,Back Squat,63,3,8
+2023-02-24,Deadlift,84,3,2
+2023-02-24,Bench Press,55,5,6
+2023-02-27,Back Squat,106,4,1
+2023-02-27,Deadlift,157,3,8
+2023-02-27,Bench Press,100,4,6
+2023-02-28,Back Squat,116,3,3
+2023-02-28,Deadlift,147,4,7
+2023-02-28,Bench Press,60,5,5
+2023-03-01,Back Squat,91,3,1
+2023-03-01,Deadlift,174,3,8
+2023-03-01,Bench Press,73,4,2
+2023-03-02,Back Squat,93,4,8
+2023-03-02,Deadlift,107,5,5
+2023-03-02,Bench Press,84,4,4
+2023-03-03,Back Squat,75,3,2
+2023-03-03,Deadlift,137,3,8
+2023-03-03,Bench Press,45,5,6
+2023-03-06,Back Squat,145,4,2
+2023-03-06,Deadlift,150,5,5
+2023-03-06,Bench Press,97,4,3
+2023-03-07,Back Squat,150,5,3
+2023-03-07,Deadlift,181,4,4
+2023-03-07,Bench Press,47,3,3
+2023-03-08,Back Squat,90,4,1
+2023-03-08,Deadlift,126,5,6
+2023-03-08,Bench Press,69,5,3
+2023-03-09,Back Squat,138,3,2
+2023-03-09,Deadlift,119,4,8
+2023-03-09,Bench Press,73,4,7
+2023-03-10,Back Squat,133,3,3
+2023-03-10,Deadlift,120,5,2
+2023-03-10,Bench Press,68,4,6
+2023-03-13,Back Squat,76,5,3
+2023-03-13,Deadlift,178,3,7
+2023-03-13,Bench Press,72,3,2
+2023-03-14,Back Squat,126,3,5
+2023-03-14,Deadlift,101,3,6
+2023-03-14,Bench Press,99,5,4
+2023-03-15,Back Squat,104,5,5
+2023-03-15,Deadlift,188,3,5
+2023-03-15,Bench Press,52,5,5
+2023-03-16,Back Squat,76,5,5
+2023-03-16,Deadlift,158,5,2
+2023-03-16,Bench Press,72,5,3
+2023-03-17,Back Squat,135,5,3
+2023-03-17,Deadlift,101,5,6
+2023-03-17,Bench Press,93,5,1
+2023-03-20,Back Squat,63,3,1
+2023-03-20,Deadlift,162,5,5
+2023-03-20,Bench Press,81,3,7
+2023-03-21,Back Squat,139,5,1
+2023-03-21,Deadlift,143,5,5
+2023-03-21,Bench Press,81,4,8
+2023-03-22,Back Squat,91,5,7
+2023-03-22,Deadlift,118,4,2
+2023-03-22,Bench Press,84,3,3
+2023-03-23,Back Squat,116,4,8
+2023-03-23,Deadlift,139,3,6
+2023-03-23,Bench Press,78,3,6
+2023-03-24,Back Squat,100,5,6
+2023-03-24,Deadlift,131,3,6
+2023-03-24,Bench Press,72,5,2
+2023-03-27,Back Squat,100,3,8
+2023-03-27,Deadlift,95,4,8
+2023-03-27,Bench Press,55,3,2
+2023-03-28,Back Squat,66,4,7
+2023-03-28,Deadlift,190,5,7
+2023-03-28,Bench Press,55,3,6
+2023-03-29,Back Squat,133,5,6
+2023-03-29,Deadlift,104,3,8
+2023-03-29,Bench Press,72,4,8
+2023-03-30,Back Squat,99,4,1
+2023-03-30,Deadlift,91,4,8
+2023-03-30,Bench Press,55,3,6
+2023-03-31,Back Squat,66,3,5
+2023-03-31,Deadlift,143,5,8
+2023-03-31,Bench Press,58,5,1
+2023-04-03,Back Squat,73,4,3
+2023-04-03,Deadlift,192,4,6
+2023-04-03,Bench Press,88,4,6
+2023-04-04,Back Squat,65,4,1
+2023-04-04,Deadlift,152,5,4
+2023-04-04,Bench Press,63,5,5
+2023-04-05,Back Squat,69,4,8
+2023-04-05,Deadlift,177,5,5
+2023-04-05,Bench Press,92,5,2
+2023-04-06,Back Squat,76,3,7
+2023-04-06,Deadlift,127,4,6
+2023-04-06,Bench Press,88,3,4
+2023-04-07,Back Squat,137,5,7
+2023-04-07,Deadlift,144,3,1
+2023-04-07,Bench Press,42,3,6
+2023-04-10,Back Squat,120,5,8
+2023-04-10,Deadlift,99,5,3
+2023-04-10,Bench Press,60,5,6
+2023-04-11,Back Squat,80,4,5
+2023-04-11,Deadlift,155,4,8
+2023-04-11,Bench Press,85,5,5
+2023-04-12,Back Squat,120,3,6
+2023-04-12,Deadlift,122,5,2
+2023-04-12,Bench Press,66,5,5
+2023-04-13,Back Squat,148,5,1
+2023-04-13,Deadlift,156,4,5
+2023-04-13,Bench Press,81,5,4
+2023-04-14,Back Squat,66,5,8
+2023-04-14,Deadlift,101,5,7
+2023-04-14,Bench Press,49,5,4
